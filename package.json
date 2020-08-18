@@ -1,0 +1,28 @@
+{
+  "name": "pwndb-unofficial-api",
+  "version": "1.0.0",
+  "description": "PwnDB Unofficial API",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GreXLin85",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreXLin85/PwnDB-Unofficial-API.git"
+  },
+  "keywords": [
+    "pwndb",
+    "breach",
+    "tor"
+  ],
+  "bugs": {
+    "url": "https://github.com/GreXLin85/PwnDB-Unofficial-API/issues"
+  },
+  "homepage": "https://github.com/GreXLin85/PwnDB-Unofficial-API#readme"
+}
